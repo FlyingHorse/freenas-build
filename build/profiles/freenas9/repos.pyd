@@ -26,14 +26,14 @@
 repos += {
     "name": "freenas",
     "path": "freenas",
-    "url": "http://github.com/freenas/freenas.git",
+    "url": "http://github.com/FlyingHorse/freenas.git",
     "branch": "master"
 }
 
 repos += {
     "name": "freenas-docs",
     "path": "freenas-docs",
-    "url": "http://github.com/freenas/freenas-docs.git",
+    "url": "http://github.com/FlyingHorse/freenas-docs.git",
     "branch": "master"
 }
 
